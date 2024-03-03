@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding:0;
+    
+}
+section{
+    margin-top: 13rem;
+    
+    
+
+}
+.button, #myBtn1, #myBtn2{
+    padding: 1.4rem 4rem;
+    border-radius: 10px;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    display: flex;
+    justify-content:center;
+}
+h2{
+    text-align: center;
+    margin-top: 1rem;
+}
+.container{
+    max-width: 40rem;
+    height: 1rem;
+    margin: auto;
+    text-align: center;
+    margin-top: 2rem;
+    display: flex;
+    font-size: 2rem;
+    justify-content: center;
+}
