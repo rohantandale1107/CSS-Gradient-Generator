@@ -12,7 +12,7 @@ section{
 .button, #myBtn1, #myBtn2{
     padding: 1.4rem 4rem;
     border-radius: 10px;
-    margin-left: 0.5rem;
+    margin-left: 0.5rem; 
     margin-right: 0.5rem;
     display: flex;
     justify-content:center;
